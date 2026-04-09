@@ -28,13 +28,6 @@ Heart disease prediction is a meaningful and widely studied healthcare problem. 
 - a complete backend with authentication and persistence
 - a dashboard that makes outputs easy to understand
 
-It is useful as:
-
-- a final year project
-- a soft computing / AI mini project
-- a portfolio project combining ML and web development
-- a viva or seminar demonstration project
-
 ## Key Features
 
 ### Prediction Engine
