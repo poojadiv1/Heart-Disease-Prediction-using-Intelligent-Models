@@ -70,9 +70,9 @@ Fuzzy logic is used after the ANN prediction to convert probability into human-f
 
 Why fuzzy logic was used:
 
-- medical risk is not naturally expressed only as yes/no
-- fuzzy labels such as low, medium, and high are easier to interpret
-- improves explainability for users and examiners
+- medical risk is not naturally expressed only as yes/no.
+- fuzzy labels such as low, medium, and high are easier to interpret.
+- improves explainability for users and examiners.
 
 ### 3. Genetic Algorithm (GA)
 
