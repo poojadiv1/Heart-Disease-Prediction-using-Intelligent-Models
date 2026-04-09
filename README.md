@@ -2,7 +2,7 @@
 
 A full-stack healthcare prediction system that estimates heart disease risk from clinical inputs using a trained neural network, fuzzy risk interpretation, and Genetic Algorithm based feature optimization.
 
-This project combines machine learning, soft computing, and web engineering into one practical application. Users can log in, enter patient details, generate predictions, store prediction history, review summary analytics, and run runtime feature optimization through a Genetic Algorithm.
+This project combines machine learning, soft computing, and web engineering into one practical application. Users can log in, enter patient details, generate predictions, store prediction history, review summary analytics, and run runtime feature optimization through a Genetic Algorithm (GA).
 
 ## Overview
 
