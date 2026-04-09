@@ -1,0 +1,11 @@
+{
+  "name": "heart-disease-backend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check src/heartModel.js && node --check src/geneticAlgorithm.js && node --check src/data.js && node --check src/report.js && node --check src/auth.js && node --check src/db.js && python -m py_compile scripts/train_model.py",
+    "train:model": "python scripts/train_model.py"
+  }
+}
