@@ -413,4 +413,4 @@ This project is designed for educational and demonstration purposes. It is not a
 
 ## License
 
-This project is available for academic use and portfolio demonstration. Add a formal license if you plan to publish it openly.
+This project is available for academic use and portfolio demonstration. Add a formal license if you plan to publish it openly..
